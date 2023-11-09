@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [Ten Twenty One](https://tentwentyone.io/)
 
-- 🌱 I’m currently learning **how to be dad**
+- 🌱 I’m currently learning **how to be a dad**
 
 - 👯 I’m looking to collaborate on **cloud security projects**
 
