@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **cloud**
 
-- 📫 How to reach me **pedroloirenco@gmail.com**
-
 - ⚡ Fun fact **i like 🏍**
 
 <h3 align="left">Connect with me:</h3>
